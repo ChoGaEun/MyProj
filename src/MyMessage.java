@@ -1,7 +1,7 @@
 public class MyMessage {
 	String message;
 public void print() {
-		System.out.println(message);
+		System.out.println("no message");
 	}
 	public MyMessage(String message) {
 		this.message = message;
