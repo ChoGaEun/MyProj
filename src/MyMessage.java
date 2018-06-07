@@ -9,4 +9,7 @@ public void print() {
 	public void print() {
 		System.out.println(message);
 	}
+public setMyMessage(String message) {
+		this.message = message;
+	}
 }
